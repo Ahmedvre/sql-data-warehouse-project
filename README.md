@@ -106,24 +106,6 @@ The Gold layer implements a **star schema** for optimized analytical querying:
 
 ---
 
-## 🏁 Getting Started
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/data-warehouse-project.git
-   ```
-
-2. Set up a SQL Server instance (local or Azure)
-
-3. Run the layer scripts in order:
-   ```
-   scripts/bronze/ → scripts/silver/ → scripts/gold/
-   ```
-
-4. Validate with the test scripts in `/tests/`
-
----
-
 ## 📄 License
 
 This project is for educational and portfolio purposes.
