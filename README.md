@@ -53,6 +53,7 @@ data-warehouse-project/
 │   ├── bronze/             # DDL and load scripts for the Bronze layer
 │   ├── silver/             # Transformation and cleansing scripts
 │   └── gold/               # Star schema creation scripts
+│   └── Analytics/
 │
 ├── tests/                  # Data quality checks and validation scripts
 │
